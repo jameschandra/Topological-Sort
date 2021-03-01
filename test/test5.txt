@@ -1,0 +1,8 @@
+Pengenalan Komputasi, Tata Tulis Karya Ilmiah, Fisika IIA, Dasar Pemrograman.
+Matematika IA, Matematika IIA.
+Matematika IIA, Pengenalan Komputasi.
+Fisika IA, Pengenalan Komputasi, Matematika IA, Matematika IIA.
+Fisika IIA, Tata Tulis Karya Ilmiah, Fisika IIA, Fisika IA.
+Tata Tulis Karya Ilmiah, Fisika IIA.
+Fisika IIA.
+Dasar Pemrograman, Fisika IIA.

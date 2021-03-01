@@ -1,0 +1,6 @@
+Basis Data.
+Strategi Algoritma.
+Probabilitas & Statistika.
+Sistem Operasi.
+Rekayasa Perangkat Lunak.
+Pemrograman Berorientasi Objek.

@@ -1,0 +1,8 @@
+Pengenalan Komputasi.
+Dasar Pemrograman, Pengenalan Komputasi.
+Pemrograman Berorientasi Objek, Dasar Pemrograman.
+Kecerdasan Buatan, Pemrograman Berorientasi Objek.
+Pembelajaran Mesin, Kecerdasan Buatan.
+Teknologi Komputasi Awan, Pembelajaran Mesin.
+Kerja Praktik, Teknologi Komputasi Awan.
+Sidang TA, Kerja Praktik.
