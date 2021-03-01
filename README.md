@@ -14,9 +14,13 @@ Program ini akan digunakan sebuah algoritma topologiical sorting untuk mencari p
 1. Masukan persoalan yang ingin diselesaikan oleh program ke dalam file test.txt di dalam folder test (contoh test-case ada pada test1.txt s.d test8.txt), dengan contoh format sebagai berikut
 
     C1, C3.
+
     C2, C1, C4.
+    
     C3.
+    
     C4, C1, C3.
+    
     C5, C2, C4.
 
 *CATAT bahwa penggantian test-case harus dilakukan melalui perubahan manual dengan mengganti konten dari test.txt
